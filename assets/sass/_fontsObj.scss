@@ -1,0 +1,91 @@
+@font-face {
+    font-family: 'FS Thrive Elliot';
+    src: url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Light.eot');
+    src: url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Light.eot?#iefix') format('embedded-opentype'),
+        url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Light.woff2') format('woff2'),
+        url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Light.woff') format('woff'),
+        url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Light.ttf') format('truetype'),
+        url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Light.svg#FSThriveElliot-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FS Thrive Elliot';
+    src: url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-LightItalic.eot');
+    src: url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-LightItalic.woff2') format('woff2'),
+        url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-LightItalic.woff') format('woff'),
+        url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-LightItalic.ttf') format('truetype'),
+        url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-LightItalic.svg#FSThriveElliot-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FS Thrive Elliot';
+    src: url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-BoldItalic.eot');
+    src: url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-BoldItalic.woff2') format('woff2'),
+        url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-BoldItalic.woff') format('woff'),
+        url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-BoldItalic.ttf') format('truetype'),
+        url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-BoldItalic.svg#FSThriveElliot-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FS Thrive Elliot';
+    src: url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Italic.eot');
+    src: url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Italic.eot?#iefix') format('embedded-opentype'),
+        url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Italic.woff2') format('woff2'),
+        url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Italic.woff') format('woff'),
+        url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Italic.ttf') format('truetype'),
+        url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Italic.svg#FSThriveElliot-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FS Thrive Elliot';
+    src: url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Bold.eot');
+    src: url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Bold.eot?#iefix') format('embedded-opentype'),
+        url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Bold.woff2') format('woff2'),
+        url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Bold.woff') format('woff'),
+        url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Bold.ttf') format('truetype'),
+        url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Bold.svg#FSThriveElliot-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FS Thrive Elliot';
+    src: url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Heavy.eot');
+    src: url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Heavy.woff2') format('woff2'),
+        url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Heavy.woff') format('woff'),
+        url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Heavy.ttf') format('truetype'),
+        url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Heavy.svg#FSThriveElliot-Heavy') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FS Thrive Elliot';
+    src: url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Regular.eot');
+    src: url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Regular.eot?#iefix') format('embedded-opentype'),
+        url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Regular.woff2') format('woff2'),
+        url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Regular.woff') format('woff'),
+        url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Regular.ttf') format('truetype'),
+        url('https://s3.us-central-1.wasabisys.com/alight-assets/fs-thrive-elliot/FSThriveElliot-Regular.svg#FSThriveElliot-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

@@ -1,0 +1,38 @@
+.section__padding, .section__padding-y, .section__padding-t {
+    padding-top: $spacer-3;
+}
+
+.section__padding, .section__padding-y, .section__padding-b {
+    padding-bottom: $spacer-3;
+}
+
+.section__padding, .section__padding-x, .section__padding-l {
+    padding-left: $spacer-3;
+}
+
+.section__padding, .section__padding-x, .section__padding-r {
+    padding-right: $spacer-3;
+}
+
+.section__margin, .section__margin-y, .section__margin-t {
+    margin-top: $spacer-3;
+}
+
+.section__margin, .section__margin-y, .section__margin-b {
+    margin-bottom: $spacer-3;
+}
+
+.section__margin, .section__margin-x, .section__margin-l {
+    margin-left: $spacer-3;
+}
+
+.section__margin, .section__margin-x, .section__margin-r {
+    margin-right: $spacer-3;
+}
+
+@each $value in $sizing-values {
+    .height__#{$value}vh {
+        height: 100%;
+        min-height: #{$value}vh;
+    }
+}

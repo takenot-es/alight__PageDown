@@ -1,0 +1,22 @@
+// Core type styles are handled in _reboot.scss
+
+.type {
+    @each $modifier, $value in $theme-colors {
+        &__color-#{$modifier} {
+            color: $value !important;
+        }
+    } 
+
+    @each  $value in $font-weights {
+        &__weight-#{$value} {
+            font-weight: $value !important;
+        }
+    } 
+
+    @each  $modifier, $value in $spacers {
+        &__size-#{$modifier} {
+            font-size: $value !important;
+        }
+    }
+
+}
